@@ -108,8 +108,8 @@ header .container-2 .items-1 .parrafo{
     font-size: 20px;
     font-weight: 600;
     color: #fff;
-    width: 200px;
-    height: 7vh;
+    width: 30%;
+    height: 45px;
     border-radius: 10px;
     outline: none;
     border: none;
@@ -474,3 +474,4 @@ footer .container-2 .derechos{
     padding-top: 15px;
     color: #fff;
 }
+
