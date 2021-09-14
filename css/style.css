@@ -279,10 +279,25 @@ main .section-2{
     margin-right: 15px;
     margin-bottom: 50px;
 }
+.section-2 .items-programador{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
 .section-2 .imagen{
     width: 100%;
     height: 40vh;
     border-radius: 20px;
+}
+.section-2 .prueba .pronto{
+    width: 100%;
+    height: 40px;
+    background-color: #212121;
+    text-align: center;
+    color: #fff;
+    font-size: 35px;
+    position: absolute;
+    top: 35%;
 }
 .section-2 .container .items .type{
     width: 100%;
